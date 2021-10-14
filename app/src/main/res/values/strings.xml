@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="you_need_to_grant_location_permission_to_use_the_application">You need to grant location permission to use the application.</string>
+    <string name="unable_to_get_venues_refresh_to_try_again">Unable to get Venues, refresh to try again.</string>
+    <string name="no_network_connection">No network connection.\nPlease make sure you have internet connection, and refresh.</string>
+</resources>
